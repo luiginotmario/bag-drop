@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://breakarchive.com",
+  "dropTimeISO": "2026-07-26T20:30:00+01:00",
+  "preRollSeconds": 60,
+  "pollIntervalMs": 250,
+  "maxPollMinutes": 20,
+
+  "variantId": null,
+  "productKeyword": "vintage fendi navy zucchino baguette shoulder bag",
+
+  "quantity": 1,
+
+  "headless": false
+}
